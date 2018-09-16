@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537101550 source:/home/d3rbastl3r/workspace/codeblocks/ATTiny13A_write_serial_to_8bit_shift_register/main.cpp
+	<avr/io.h>
+	<util/delay.h>
+
